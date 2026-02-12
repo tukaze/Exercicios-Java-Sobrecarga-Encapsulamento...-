@@ -34,7 +34,9 @@ public static void main(String[] args) {
 		velocidade = sc.nextInt();
 		carro.frear(velocidade);
 
-		System.out.println(carro);
+		System.out.println("-----------------VRUMMMMMMMMMMMMMMM-----------------");
+        System.out.println(carro);
+        System.out.println("-----------------VRUMMMMMMMMMMMMMMM-----------------");
 
 		sc.close();
 	}
